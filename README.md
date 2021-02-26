@@ -1,7 +1,7 @@
 # Marketplace Currency API
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
@@ -19,7 +19,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
   </ol>
-</details>
+
 
 <!-- ABOUT THE PROJECT -->
 
